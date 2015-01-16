@@ -1,0 +1,18 @@
+LED 5V
+http://123d.circuits.io/circuits/528279/ led 5V
+
+METEN
+http://123d.circuits.io/circuits/528355/
+
+BLINKING LED
+http://123d.circuits.io/circuits/528287/
+
+2 LEDS tegelijk
+http://123d.circuits.io/circuits/528307/
+
+
+2 LEDS afwisselend
+http://123d.circuits.io/circuits/528314/
+
+??
+http://123d.circuits.io/circuits/528352/
